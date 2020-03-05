@@ -8,6 +8,7 @@ set foldlevel=20
 set cursorline
 set cursorcolumn
 set tags=tags;/
+set backspace=indent,eol,start
 "color brogrammer
 "color Chasing_Logic
 "color afterglow
